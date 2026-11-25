@@ -10,7 +10,7 @@ function setApiKey() {
   // 아래 문자열을 Streamlit Secrets의 apps_script_token 값과 동일하게 변경하세요.
   PropertiesService.getScriptProperties().setProperty(
     "API_KEY",
-    "여기에_충분히_길고_무작위인_비밀키를_입력하세요"
+    "asdfghjkl03162521000"
   );
 }
 
